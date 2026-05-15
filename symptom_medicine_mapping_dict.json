@@ -1,0 +1,101 @@
+{
+  "Paracetamol": {
+    "cause": "fever, headache, body pain, cold",
+    "medicine": "Used for reducing fever and relieving pain"
+  },
+
+  "Cetirizine": {
+    "cause": "allergy, sneezing, itching, skin allergy",
+    "medicine": "Used for allergic reactions and sneezing"
+  },
+
+  "Dolo 650": {
+    "cause": "high fever, body pain, viral fever",
+    "medicine": "Provides relief from fever and body pain"
+  },
+
+  "Ibuprofen": {
+    "cause": "muscle pain, joint pain, inflammation, headache",
+    "medicine": "Pain reliever and anti-inflammatory medicine"
+  },
+
+  "Amoxicillin": {
+    "cause": "bacterial infection, throat infection, ear infection",
+    "medicine": "Antibiotic used for bacterial infections"
+  },
+
+  "Azithromycin": {
+    "cause": "chest infection, throat pain, bacterial infection",
+    "medicine": "Antibiotic used to treat infections"
+  },
+
+  "Pantoprazole": {
+    "cause": "acidity, stomach pain, acid reflux",
+    "medicine": "Reduces stomach acid production"
+  },
+
+  "ORS": {
+    "cause": "dehydration, diarrhea, vomiting",
+    "medicine": "Maintains hydration and electrolyte balance"
+  },
+
+  "Metformin": {
+    "cause": "high blood sugar, diabetes",
+    "medicine": "Used to control blood sugar levels"
+  },
+
+  "Insulin": {
+    "cause": "type 1 diabetes, high glucose levels",
+    "medicine": "Controls blood sugar in diabetic patients"
+  },
+
+  "Crocin": {
+    "cause": "fever, cold, headache",
+    "medicine": "Relieves fever and mild pain"
+  },
+
+  "Cough Syrup": {
+    "cause": "dry cough, throat irritation, cough",
+    "medicine": "Provides relief from coughing"
+  },
+
+  "Domperidone": {
+    "cause": "nausea, vomiting, stomach discomfort",
+    "medicine": "Helps prevent nausea and vomiting"
+  },
+
+  "Diclofenac": {
+    "cause": "back pain, swelling, arthritis pain",
+    "medicine": "Painkiller used for inflammation and joint pain"
+  },
+
+  "Aspirin": {
+    "cause": "headache, mild pain, heart problem",
+    "medicine": "Pain relief and blood thinning medicine"
+  },
+
+  "Vitamin C": {
+    "cause": "weak immunity, tiredness, vitamin deficiency",
+    "medicine": "Boosts immunity and improves health"
+  },
+
+  "Antacid": {
+    "cause": "gas, acidity, indigestion",
+    "medicine": "Neutralizes stomach acid"
+  },
+
+  "Loperamide": {
+    "cause": "loose motions, diarrhea",
+    "medicine": "Controls diarrhea"
+  },
+
+  "Salbutamol": {
+    "cause": "asthma, breathing problem, wheezing",
+    "medicine": "Helps open airways for easier breathing"
+  },
+
+  "Zinc Tablets": {
+    "cause": "weakness, low immunity, deficiency",
+    "medicine": "Supports immune system and recovery"
+  }
+}
